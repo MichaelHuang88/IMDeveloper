@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\im_chatting_left_voice_play.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\im_chatting_left_voice_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\im_chatting_right_voice_play.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\im_chatting_right_voice_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\anim\\slide_out_to_top.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_me.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\im_dot_unselect.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\im_dot_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_me_selected.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_me_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\page_indicator_focused.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_message_selected.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_message_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_contanct_selected.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_contanct_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\im_dot_select.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\im_dot_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_discovery_selected.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_discovery_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_contanct.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_contanct.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_discovery.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_discovery.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\main_footer_message.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\main_footer_message.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\news_bg.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\news_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\messaging.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-mdpi\\messaging.png"
+    }
+]

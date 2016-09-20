@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7491b4ff21f10f694b72439b5c377b81fe4bb992">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a6223acb20ecff938ddf2898f22f34e7fdba0f39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael-huang\Downloads\IMDeveloper\app\libs\universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3-with-sources_1cacfd7237b9e2e638e602e944aad142908ea407\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael-huang\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.0.0_ddf00a736e92a5d9fa27a252d63de44edb0813c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="002527d4b206e512a30e86eab4e34442fc91d9cd">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0e25bc223e2c23a4327f7bb9757962f23a3b6fb9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael-huang\Downloads\IMDeveloper\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\2\nineoldandroids-2.4.0_03cde6cb2dbf2992156f2ed40018c537b54452e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael-huang\Downloads\IMDeveloper\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.8_82aa5e3ff4f326cad26cb3971eef42d307828919\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Michael-huang\Downloads\IMDeveloper\app\libs\IMSDK_1.3.9.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9eadabe7b507107bb0d6da3d7a2c864577645863">
+        <dex dex="C:\Users\Michael-huang\Downloads\IMDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\2\IMSDK_1.3.9_344af10c138f52ef50d30893c3226fd3037f5445\classes.dex" />
+    </item>
+
+</items>

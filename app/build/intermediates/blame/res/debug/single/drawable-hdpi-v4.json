@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tt_picture.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tt_picture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_selected.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\search_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_voice_rcd_hint.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_voice_rcd_hint.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_work.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_work.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h1.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp2.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp2.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_right.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_loading_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_loading_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp1.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp1.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h2.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jia.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\jia.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h18.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h18.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_voice_rcd_cancel_bg.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_voice_rcd_cancel_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_head_woman.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\news_head_woman.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp3.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp3.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tt_menu_picture.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tt_menu_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emotionstore_progresscancelbtn.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\emotionstore_progresscancelbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_choose.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\dir_choose.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_password.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\login_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ziliaobianji_jiantou_icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ziliaobianji_jiantou_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_mini_avatar_shadow.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_mini_avatar_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h17.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h17.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_warning.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tips_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_background.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_app_panel_shade_pressed.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_app_panel_shade_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h4.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_uesr.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\login_uesr.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jian.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\jian.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact_group.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\contact_group.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_resend_press.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_resend_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_error.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tips_error.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_btn_hf_down.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\phone_btn_hf_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h16.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h16.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\apply.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\apply.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_dividingline.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_dividingline.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\room_returnbotton.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\room_returnbotton.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bianjiziliao_tik.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\bianjiziliao_tik.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_unselected.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tt_record_cancel.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tt_record_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_checked.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\login_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\autumn.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\autumn.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp4.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp4.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group_delete_member.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\group_delete_member.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tips_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leave.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\leave.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tk_photo.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tk_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tt_menu_satisfaction.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tt_menu_satisfaction.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_news_.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_news_.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_smile.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tips_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h6.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h3.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h0.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h0.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_me.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\autumn_big.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\autumn_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_title_bg2.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_title_bg2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h9.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weight_btn_sign_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\weight_btn_sign_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_checked_.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\login_checked_.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_app_panel_shade_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_app_panel_shade_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_more_friend_shake.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_shake.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_app_panel_pic_icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_app_panel_pic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h13.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h13.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bianjiziliao_dingwei.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\bianjiziliao_dingwei.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h10.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h10.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_rcd_cancel_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_rcd_cancel_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_back.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_first_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_1.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\welcome_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_button_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_grey_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_grey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_more_btn_cloud.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\file_more_btn_cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shezhi_top_bg.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\shezhi_top_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_rcd_cancel_icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_rcd_cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_nearby.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_nearby.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_voice_rcd_hint_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_chat_photo.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_chat_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tt_kf.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tt_kf.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp7.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp7.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_2.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\welcome_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h8.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_nearby_.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_nearby_.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h12.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h12.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_news.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_news.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_alert_dialog_cancel_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_alert_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\news_head_man.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\news_head_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_me_.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_me_.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notif_push_large_icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\notif_push_large_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_single_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h11.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h11.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_imsdk_default.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_imsdk_default.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_loading_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\dialog_loading_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h14.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h14.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_contact.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_simple.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_simple.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_voice_rcd_cancel_bg_focused.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_voice_rcd_cancel_bg_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h7.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp6.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp6.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_amp5.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_amp5.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_style_zero_focused.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\btn_style_zero_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bianjiziliao_delete.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\bianjiziliao_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h15.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h15.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_edit_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\search_bar_edit_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_voice_to_short.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_voice_to_short.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_login_edit_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_login_edit_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\show_head_toast_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weight_btn_todo_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\weight_btn_todo_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_app_panel_take_photo_icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_app_panel_take_photo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_tab_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_tab_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inbox_btn_approval_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\inbox_btn_approval_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h5.jpg",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\h5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tt_menu_photo.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tt_menu_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inbox_btn_work_report_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\inbox_btn_work_report_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_listitem_pressed.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\mm_listitem_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\find_more_friend_addfriend_icon.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\find_more_friend_addfriend_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_last_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bar_icon_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\search_bar_icon_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tips_success.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tips_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_chat_camera.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_chat_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_work_.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_work_.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_resend_normal.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_resend_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_preference_normal.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_contact_.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\tab_contact_.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\im_title_bg.9.png",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\drawable-hdpi\\im_title_bg.9.png"
+    }
+]

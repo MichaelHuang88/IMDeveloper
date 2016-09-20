@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts_list_head.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_contacts_list_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_modify_password.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_modify_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_tips.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\view_tips.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosephoto.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_choosephoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tab.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\item_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_line.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\layout_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myprofile.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_groupinfo.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_groupinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contacts.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_voice_rcd_dialog.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\im_voice_rcd_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_loading.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\list_dir.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify_status_bar_latest_event_view.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\notify_status_bar_latest_event_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_groupinfo_user.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\item_groupinfo_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_announce.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_announce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_merchant.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_search_merchant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_searchandmakegroup.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_searchandmakegroup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_tips_loading.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\view_tips_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_work.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gender.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\dialog_gender.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sort_contact.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\item_sort_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_messages.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imbase_titlebar.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\imbase_titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_around.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\fragment_around.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_emotion_pager_classical_item.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\im_emotion_pager_classical_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addcontact.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_addcontact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_group.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\item_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_chatview_item_chatting.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\im_chatview_item_chatting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tt_chatview_item_custom_view.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\tt_chatview_item_custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tt_chatview_item_custom_view_2.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\tt_chatview_item_custom_view_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_chatview.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\im_chatview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_custom_imagebutton.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\im_custom_imagebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_user.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_radio_button.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\custom_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notify_status_bar_latest_event_content_large_icon.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\notify_status_bar_latest_event_content_large_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir_item.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\list_dir_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_merchant.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\item_merchant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_nickname.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\dialog_nickname.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yonghu_zhuce.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_yonghu_zhuce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\im_chatview_image.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\im_chatview_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\city_picker.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\city_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yonghu_modifypassword.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_yonghu_modifypassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_search_member.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\activity_group_search_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\work_item.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\work_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_region.xml",
+        "source": "C:\\Users\\Michael-huang\\Downloads\\IMDeveloper\\app\\src\\main\\res\\layout\\dialog_region.xml"
+    }
+]
